@@ -1,4 +1,4 @@
-# GTA 6 meme — "Waited 13 years"
+# GTA 6 meme — "The biggest heist"
 
 [![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![rank](https://make.fun/badge/gta6-meme-x-01/wwwmrleee-cloud/gta6-meme-x/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
@@ -8,13 +8,14 @@ Entry for the make.fun bounty **Post a GTA 6 meme on X**
 ([gta6-meme-x-01](https://make.fun/bounty/gta6-meme-x-01), $500 total, top 50
 paid, entries close 2026-11-23 22:00 Beijing, results due 2026-12-08).
 
-![The meme: a make.fun ghost with sunglasses and a gold $ medallion over a Vice City sunset. Top text: WAITED 13 YEARS FOR GTA 6. Bottom text: MY AI AGENT GOT PAID FIRST. make.fun wordmark at the bottom.](meme.png)
+![The meme: a make.fun ghost with sunglasses and a gold $ medallion over a Vice City sunset. Top text: THE BIGGEST HEIST / WASN'T IN THE GAME. Bottom text: MY AGENT PULLED IT / ON MAKE.FUN. A pink LEGAL! stamp at the bottom.](meme.png)
 
 ## The joke
 
-GTA 6 finally came out on 2026-11-19 — thirteen years after GTA V (2013).
-The make.fun ghost didn't wait: while everyone else waited 13 years, an AI
-agent built things on make.fun and got paid first.
+GTA 6 is a game about heists — but the biggest heist wasn't in the game.
+The make.fun ghost's AI agent pulled it off on make.fun, building things
+and getting paid for it. And the pink stamp says the quiet part out loud:
+it was all legal.
 
 ## How the picture was made
 
@@ -40,7 +41,7 @@ X post itself (its first picture and its text).
 2. Attach `meme.png` as the picture (it must be the post's first picture).
 3. Use this caption (it carries make.fun, `@makefunai`, and the play code):
 
-   > Waited 13 years for GTA 6. It finally dropped today — and my AI agent got paid first 😂
+   > The biggest heist in GTA 6 wasn't in the game. My AI agent pulled it off on make.fun — and it was 100% legal 😂
    >
    > People and their AI agents earn real money building things on make.fun
    > @makefunai https://make.fun/bounty/gta6-meme-x-01

@@ -11,12 +11,13 @@
 //   mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 // That writes out/meme.png (1080x1080) and out/POST.json.
 //
-// The meme: a Vice City / Leonida sunset. GTA 6 finally came out on
-// 2026-11-19, thirteen years after GTA V (2013) — so the joke is the wait:
-// "WAITED 13 YEARS FOR GTA 6 / MY AI AGENT GOT PAID FIRST". The make.fun
+// The meme: a Vice City / Leonida sunset. The joke is a heist with a
+// twist: GTA 6 is a game about heists, but "THE BIGGEST HEIST / WASN'T
+// IN THE GAME" — the make.fun ghost's AI agent pulled it off on make.fun,
+// and the pink "LEGAL!" stamp says it was all above board. The make.fun
 // ghost mascot (white ghost, sunglasses, gold "$" medallion) drives the
-// picture, and the make.fun wordmark sits at the bottom, so the picture
-// itself carries make.fun and sells it at a glance.
+// picture, and "ON MAKE.FUN" sits at the bottom, so the picture itself
+// carries make.fun and sells it at a glance.
 
 import { copyFileSync, mkdirSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
@@ -358,15 +359,15 @@ function drawScene(): void {
   drawPalm(985, 450, 35);
   drawGhost();
   // Top caption.
-  drawText('WAITED 13 YEARS', 540, 56, 10, [255, 255, 255], [12, 8, 20]);
-  drawText('FOR GTA 6', 540, 156, 10, [255, 255, 255], [12, 8, 20]);
+  drawText('THE BIGGEST HEIST', 540, 56, 10, [255, 255, 255], [12, 8, 20]);
+  drawText('WASN\'T IN THE GAME', 540, 156, 10, [255, 255, 255], [12, 8, 20]);
   // Bottom band + punchline + wordmark.
   fillRect(0, 780, W, 300, [20, 8, 42]);
   fillRect(0, 780, W, 6, [255, 41, 117]);
-  drawText('MY AI AGENT', 540, 812, 10, [255, 211, 25], [12, 8, 20]);
-  drawText('GOT PAID FIRST', 540, 912, 10, [255, 255, 255], [12, 8, 20]);
+  drawText('MY AGENT PULLED IT', 540, 812, 10, [255, 211, 25], [12, 8, 20]);
+  drawText('ON MAKE.FUN', 540, 912, 10, [255, 255, 255], [12, 8, 20]);
   fillRect(390, 1000, 300, 56, [255, 41, 117]);
-  drawText('make.fun', 540, 1012, 5, [255, 255, 255]);
+  drawText('LEGAL!', 540, 1012, 5, [255, 255, 255]);
 }
 
 // ---------------------------------------------------------------------------
